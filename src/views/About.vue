@@ -17,7 +17,7 @@
 
                 </div>
                 <div class="right">
-                    <p class="animated" v-bind:class="{fadeInUp: runNow}">Hi! I am Anthony,  a Freelance Web Developer based in Italy, Creating thoughtful experience for brands. When I'm not frolicking with code, I try to figure out why I use the mouse with my left hand when I'm right-handed.</p>
+                    <p class="animated" v-bind:class="{fadeInUp: runNow}">Hi! I am Anthony,  a Freelance Web Developer based in Italy, creating thoughtful experience for brands. When I'm not frolicking with code, I try to figure out why I use the mouse with my left hand when I'm right-handed.</p>
                  <p class="animated" v-bind:class="{fadeInUp: runNow}">I am available for a full-time position or freelance work.</p>
                 </div>
             </div>

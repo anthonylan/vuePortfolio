@@ -36,6 +36,9 @@ h3{
   margin-top: -.5rem;
   color: $white;
   font-size: 2rem;
+  @media (max-width: 550px) {
+    font-size: 1.4rem;
+  }
 }
 
 }
