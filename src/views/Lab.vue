@@ -3,7 +3,7 @@
       <div class="figure"></div>
       <div class="hero-wrapper">
            <h1 class="animated" v-bind:class="{fadeInUp: runNow}">Code Lab</h1>
-            <p class="animated" v-bind:class="{fadeInUp: runNow}">Explore some crazy experiements</p>
+            <p class="animated" v-bind:class="{fadeInUp: runNow}">Explore some crazy experiments</p>
       </div>
      <div class="design lab">
         <div class="wrapper-xl">
